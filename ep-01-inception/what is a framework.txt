@@ -1,0 +1,4 @@
+
+In software development, a framework is a structured and reusable set of tools, libraries,
+and conventions designed to aid in the development of software applications. Unlike a library, which provides specific functionalities or components, 
+a framework provides a more comprehensive infrastructure and dictates the overall structure and architecture of an application.
