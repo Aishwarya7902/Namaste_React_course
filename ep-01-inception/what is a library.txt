@@ -1,0 +1,3 @@
+A library refers to a collection of pre-written and reusable code modules or functions that can be easily integrated into a larger software project. 
+Libraries are designed to provide specific functionalities,
+and developers can leverage them to save time and effort by avoiding the need to write certain code from scratch.
