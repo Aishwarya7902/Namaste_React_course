@@ -1,0 +1,3 @@
+CDN stands for Content Delivery Network. It is a distributed network of servers strategically located in various data centers around the world. 
+The primary purpose of a CDN is to deliver web content,
+such as images, scripts, stylesheets, and other static or dynamic assets, to users in a faster and more efficient way.
