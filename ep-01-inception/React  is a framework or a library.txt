@@ -1,0 +1,29 @@
+💭React is written in JavaScript and is used to make better JavaScript applications. We refer to React specifically as a library.
+
+But what makes React a library and not a framework?
+
+
+
+❤️ The reason becomes clear when we look at other similar tools that are used to create complete web applications.
+
+Let's look at a project like Angular, which shares the same purpose as React (to create single-page web apps).
+What sets it apart is the fact that when you set up an Angular project,
+it is bootstrapped with nearly every single thing that you'll need to make a complete, large-scale app.
+
+
+💭Frameworks are a common choice for companies and anyone looking to make enterprise JavaScript applications,
+because they include resources that a large-scale application would likely need.
+This includes built-in tools for common tasks like creating forms, running automated tests, making network requests, and much more.
+
+In short, everything that you need to make a complete application is included in your Angular project when it's generated. But that is not the case with React.
+
+
+❤️Since React is a library, you must choose the tools on your own
+That means, in order to build complete React applications, you will need to choose these packages and tools on your own.For a form library, 
+I have to decide whether I want to use the package React Hook Form or Formik.
+These are both React-specific form libraries to add important features to our forms like validation.
+
+
+
+
+💭
