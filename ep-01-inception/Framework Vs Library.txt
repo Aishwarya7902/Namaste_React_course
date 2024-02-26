@@ -1,0 +1,7 @@
+Video (Hitesh Sir) :(https://www.youtube.com/watch?v=sXA1zpv4DhA)
+
+✨A libaray is more like a home where we have less rules and we can do whatever we want ........
+whereas a framework is like a school or University where there are a hell lots of rules..
+
+✨ We can call a library when we require it
+but it is the duty of framework to call a library
