@@ -1,0 +1,9 @@
+const heading = React.createElement("h1", 
+{
+  id:"heading"
+}, "Hello World From React ❤️🙌");
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(heading);
+
+
+//here root.render(heading) takes the JavaScript object ...converts into h1 tag and puts it in DOM
