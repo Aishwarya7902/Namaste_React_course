@@ -1,0 +1,4 @@
+NPM does not stands for node package manager.
+
+NPM basically is a repo which contains all the packages.NPM stands for Node Package Manager. 
+It is a package manager for JavaScript programming language and is the default package manager for Node.js
