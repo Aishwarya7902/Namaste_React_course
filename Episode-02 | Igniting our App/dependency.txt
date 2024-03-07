@@ -1,0 +1,8 @@
+1.Production Dependencies:
+
+These are the dependencies required for the application to run in a production environment.
+
+
+2.Development Dependencies:
+
+Dependencies that are only needed during development, such as testing frameworks, build tools, or linters.
