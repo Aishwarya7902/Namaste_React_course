@@ -1,4 +1,14 @@
-NPM does not stands for node package manager.
+✅ NPM does not stands for node package manager.
 
-NPM basically is a repo which contains all the packages.NPM stands for Node Package Manager. 
-It is a package manager for JavaScript programming language and is the default package manager for Node.js
+✅ NPM manages all the packages behind the scene but it does not stand for node package manager.
+
+✅ NPM is basically a repository which stores all the packages. If you want to include any package in your project , you can use NPM.....
+    all the packages are hoisted over there.
+
+
+
+
+
+
+
+
