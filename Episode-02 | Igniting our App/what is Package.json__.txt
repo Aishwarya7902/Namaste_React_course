@@ -1,0 +1,9 @@
+✅ what is package.JSON
+ it is bascially a configuration (arrangement) for our NPM file.
+
+✅ So what NPM does is that , it manages packages  which are sometimes referred to as dependency.
+
+✅ what is dependency?
+   our project requires various packages....These are called dependency.
+
+✅ NPM will take care of what is the version of the package ...and it does that in package.JSON
