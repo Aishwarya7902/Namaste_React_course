@@ -1,3 +1,8 @@
+❤️What is a dependency ?
+✅When we make projects ..we need certain packages....Which are called as dependency.
+
+There are 2 types of dependency:-
+
 1.Production Dependencies:
 
 These are the dependencies required for the application to run in a production environment.
