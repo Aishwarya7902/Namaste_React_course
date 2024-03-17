@@ -1,0 +1,11 @@
+❤️What is parcel ?
+
+✅It is a bundeler.
+✅Command to install parcel is
+   npm install -D parcel
+
+   
+
+❤️Can u tell me why we used -D?
+
+✅ coz we will use parcel in development phase.
