@@ -1,0 +1,7 @@
+❤️What is a bundeler?
+
+ ✅ most important pacakage
+
+ ✅ It minifies, caches , bundeles our app so that  it can be shipped for production.
+
+ ✅eg. web packs, Vite, parcel.
