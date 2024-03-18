@@ -1,0 +1,4 @@
+✅  We just have to put package.JSON and package-lock.JSON because both of these will have all the dependencies we need and hence we can regrenerate the 
+node module
+
+[ syntax to regrenerate the node module] : "npm install "
