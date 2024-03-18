@@ -1,0 +1,5 @@
+❤️ What is npx 
+
+✅ NPX is used to excute any package and create a local server for it.
+
+eg - "npx parcel index.html"
