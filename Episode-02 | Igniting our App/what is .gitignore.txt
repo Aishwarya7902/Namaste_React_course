@@ -1,0 +1,1 @@
+✅ If u want certain files/folders to not go into production or gihub ...just put them in .gitignore file.
