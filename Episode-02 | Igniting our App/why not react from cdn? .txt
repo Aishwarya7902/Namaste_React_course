@@ -1,0 +1,9 @@
+❤️ why not react from cdn?
+
+✅ we will have to make a network call which is a bit slow , hence not preferred.
+
+❤️ So what should we do then if not cdn?
+
+✅ Since react is also a package at the end , and it is also hoisted on npm , so we can install it in our node module
+  syntax : npm install react
+this will install react into our project and is much faster.
