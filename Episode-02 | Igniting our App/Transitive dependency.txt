@@ -1,0 +1,1 @@
+✅ One dependency depends on the other , other on some another and the chain continues , this is called Transitive dependency.
