@@ -1,0 +1,1 @@
+✅ It keeps a track of the exact version of package that is being installed.
