@@ -1,4 +1,7 @@
-"parcel": "^2.12.0"
+❤️ "parcel": "^2.12.0"
 
-  ^ updates minor versions (caret)
-  ~ updates major versions (tilde)
+   ✅^ updates minor versions (caret)
+   ✅ ~ updates major versions (tilde)
+
+
+Note : It is always advised to use caret.
