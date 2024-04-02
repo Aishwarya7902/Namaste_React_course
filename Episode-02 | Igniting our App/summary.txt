@@ -1,0 +1,12 @@
+✅ what is npm
+
+✅ what is npm init
+
+✅ package.JSON
+
+✅ Dev dependency
+
+✅ insatlled parcel
+
+✅ learnt about caret and tilde
+
