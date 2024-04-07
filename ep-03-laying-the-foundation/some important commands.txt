@@ -1,0 +1,16 @@
+✅ 1.
+
+-> to run the server
+npx parcel index.html (dev mode)
+npx parcel build index.html (producition mode)
+
+
+✅ 2.
+
+-> to run server using script
+
+i) npm run start (dev mode)
+    or
+  npm start (dev only)
+
+ii) npm run build (production mode)
