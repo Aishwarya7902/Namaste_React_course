@@ -1,0 +1,13 @@
+✅ 1.
+
+React.createElement()
+-> takes 3 arguments
+  i) tag
+  ii)pass an object for attributes
+  iii) content
+
+-> it returns an object ....which is then rendered and converted into htmlElement which the browser understands.
+
+✅ 2. root.render(component_to_update)
+
+Call root.render to update a React component 
